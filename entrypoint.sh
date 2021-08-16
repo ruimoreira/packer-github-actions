@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+export PATH="/usr/local/bin:${PATH}"
 set -e
 
 # fail if INPUT_COMMAND is not set
